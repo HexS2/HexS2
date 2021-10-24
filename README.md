@@ -7,11 +7,11 @@ I am a French developer. My name is Guillaume, I'm 22 years old.
 
 <!--<details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sathonay&count_private=true&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HexS2&count_private=true&show_icons=true&hide_border=true" />
 </details>-->
 
-[![Guillaume's github stats](https://github-readme-stats.sathonay.vercel.app/api?username=HexS2&count_private=true&hide_border=true&show_icons=true&bg_color=FFFFFF00&text_color=777777CC)](https://github.com/sathonay)
-[![Top Langs](https://github-readme-stats.sathonay.vercel.app/api/top-langs/?username=HexS2&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=777777CC)](https://github.com/sathonay)
+[![Guillaume's github stats](https://github-readme-stats.sathonay.vercel.app/api?username=HexS2&count_private=true&hide_border=true&show_icons=true&bg_color=FFFFFF00&text_color=777777CC)](https://github.com/HexS2)
+[![Top Langs](https://github-readme-stats.sathonay.vercel.app/api/top-langs/?username=HexS2&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=777777CC)](https://github.com/HexS2)
 
 
 
