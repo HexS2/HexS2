@@ -17,4 +17,4 @@ I am a French developer. My name is Guillaume, I'm 22 years old.
 
 # 📫 How to reach me
 [![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=join%20me&color=7289DA&logo=Discord&style=for-the-badge)](https://discord.gg/z9KwgBBy)
-[![Twitter Follow](https://img.shields.io/twitter/follow/CTRLfr?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/https://twitter.com/CTRLfr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/CTRLfr?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/CTRLfr)
