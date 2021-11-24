@@ -1,5 +1,7 @@
 # 👋 Hi there !
-I am a French developer. My name is Guillaume, I'm 22 years old.
+I make stuff with code.
+
+h3x 22 years old, French developer.
 
 # 🚀 My stats and what I use
 
