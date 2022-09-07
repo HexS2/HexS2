@@ -1,7 +1,7 @@
 # 👋 Hi there !
 I make stuff with code.
 
-h3x 22 years old, French developer.
+h3x 23 years old, French developer.
 
 # 🚀 My stats and what I use
 
