@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:450a0a,100:b91c1c&height=200&section=header&text=Guillaume&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Developer%20%26%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
-</p>
-
----
-
 ## 👨‍💻 About me
 
 - 💼 Engineer working between industrial systems and software
